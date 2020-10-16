@@ -19,7 +19,7 @@ def find_valid_calls(planeteer_calls)
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
   if planeteer_calls==valid_calls
     return planeteer_calls
-  elsif return nil
+  elsif puts nil
 
 
   end
